@@ -1,0 +1,7 @@
+{
+        "name": "VK Video Repository",
+        "description": "Dữ liệu từ VK @jav2026",
+        "pluginLists": [
+            "https://raw.githubusercontent.com/thanh3872/vkvideo-api-repo/builds/plugins.json"
+        ]
+    }
