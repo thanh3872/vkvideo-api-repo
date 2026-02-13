@@ -1,3 +1,1 @@
-#!/usr/bin/env bash
-echo "Starting Cloudstream Build..."
-./gradlew makePluginsJson
+404: Not Found
